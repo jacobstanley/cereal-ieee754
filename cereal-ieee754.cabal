@@ -12,6 +12,9 @@ category:       Data, Parsing
 build-type:     Simple
 cabal-version:  >=1.6
 
+source-repository head
+  type:     git
+  location: http://github.com/jystic/cereal-ieee754.git
 
 library
   hs-source-dirs: src
