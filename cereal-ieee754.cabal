@@ -6,7 +6,7 @@ description:    Provides functions for reading and writing IEEE 754 floating
 homepage:       http://github.com/jystic/cereal-ieee754
 license:        BSD3
 license-file:   LICENSE
-author:         Jacob Stanley
+author:         Jacob Stanley <jacob@stanley.io>
 maintainer:     Jacob Stanley <jacob@stanley.io>
 category:       Data, Parsing
 build-type:     Simple
